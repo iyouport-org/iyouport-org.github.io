@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4.0"
   gem "jekyll-swiss", "~> 1.0.0"
   gem "jemoji", "~> 0.11.1"
-  gem "kramdown", "~> 1.17.0"
+  gem "kramdown", "~> 2.3.0"
   gem "liquid", "~> 4.0.3"
   gem "nokogiri", "~> 1.10.9"
   gem "rouge", "~> 3.19.0"

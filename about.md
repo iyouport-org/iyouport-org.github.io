@@ -9,5 +9,4 @@ You can find the source code for Relaybaton at GitHub:
 [iyouport-org][iyouport-org] /
 [relaybaton](https://github.com/iyouport-org/relaybaton)
 
-
 [iyouport-org]: https://github.com/iyouport-org
